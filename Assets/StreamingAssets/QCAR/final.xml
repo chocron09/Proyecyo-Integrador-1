@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="shure_sm58_57_polar_pattern" size="475.000000 270.000000" />
+    <ImageTarget name="ShureSM57FreqResponse" size="410.000000 201.272720" />
+  </Tracking>
+</QCARConfig>
